@@ -17,7 +17,7 @@ body{
 .container{
   width: 500px;
   height: 600px;
-  background-color: aqua;
+  background-color: rgb(255, 187, 0);
   display: grid;
   grid-template-rows: 0.3fr 1fr;
   flex-wrap: wrap;
@@ -40,7 +40,7 @@ body{
 }
 
 .buttons{
-  background-color:blueviolet;
+  background-color:rgb(43, 226, 180);
   margin: 6px;
   padding: 4px;
   display:grid;
