@@ -17,7 +17,7 @@ body{
 .container{
   width: 500px;
   height: 600px;
-  background-color: rgb(255, 187, 0);
+  background-color: rgb(255, 102, 0);
   display: grid;
   grid-template-rows: 0.3fr 1fr;
   flex-wrap: wrap;
@@ -25,7 +25,7 @@ body{
 }
 
 .display{
-  background-color: beige;
+  background-color: rgb(220, 245, 233);
   margin: 5px;
   position: relative;
 }
@@ -40,7 +40,7 @@ body{
 }
 
 .buttons{
-  background-color:rgb(107, 43, 226);
+  background-color:rgb(131, 226, 43);
   margin: 6px;
   padding: 4px;
   display:grid;
